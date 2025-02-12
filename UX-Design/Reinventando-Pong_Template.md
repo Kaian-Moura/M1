@@ -44,42 +44,44 @@ Ao entender esses aspectos do Pong original, nossa reinvenção busca manter ess
 
 *- **Personagens ou Elementos Visuais:** Nesta versão, as paletas e a bola possuem designs aprimorados inspirados em tecnologia avançada e energia cósmica. As paletas podem representar naves espaciais ou estruturas flutuantes, e a bola exibe efeitos especiais conforme se movimenta, como rastros luminosos e pulsos de energia..*
 
-*- **Mudanças na Mecânica:** 
+**Mudanças na Mecânica:** 
 As principais alterações incluem:
 
 - Poderes Especiais: Os jogadores podem ativar habilidades como congelamento da bola ou disparo flamejante para alterar seu comportamento.
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+<p align="center">
+<img src="https://github.com/Kaian-Moura/M1/blob/main/UX-Design/WhatsApp%20Image%202025-02-12%20at%2019.32.50.jpeg" width="400"> </p>
 
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+
+<p align="center">
+<img src="https://github.com/Kaian-Moura/M1/blob/main/UX-Design/Texto%20do%20seu%20par%C3%A1grafo.png" width="400"> </p>
 
 *- Como o concept foi adaptado para o formato digital?*
 
-*- Quais elementos visuais foram aprimorados?*  
+O esboço foi digitalizado e aprimorado usando o Canva, permitindo melhor organização dos elementos visuais e aplicação de cores vibrantes.
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+Elementos aprimorados: Iluminação, texturas e efeitos visuais foram refinados para criar uma experiência mais imersiva.
+
+Uso de cores, formas e layout: As cores enfatizam a estética espacial e a diferenciação dos elementos interativos, enquanto a disposição do layout reforça a jogabilidade fluida e intuitiva. 
 
 ---
 
 ## 5. Reflexão e Aprendizados  
 *Cada membro da dupla deve responder individualmente:*  
 
+**Resposta de Kaian Santos Moura**
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+- *Acredito que foi pensar em algo que fosse divertido e envolvente para o usuário.* 
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+- *Desenho e design, concepção de valor e mercado*
+
+**Resposta de Celso Rodrigues Rocha Júnior**
+1. Quais foram os maiores desafios enfrentados durante o processo de criação? 
+- *Um dos maiores desafios durante o processo de criação foi encontrar o fator chave de inovação nesta releitura.
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+- *Aprimorei habilidades em documentação, design no Canva e minha criatividade.*
 
 ---
-
-## 6. Referências (se houver)  
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
-
----
-
-**📝 Formato de Entrega:**  
-- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
-- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
-
-📌 **Prazo de entrega:** Sexta-feira, às 23h59.
-
