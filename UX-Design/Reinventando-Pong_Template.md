@@ -2,7 +2,7 @@
 
 
 ## 1. Introdução  
-*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
+*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela duplaaa.*
  
 ---
 
